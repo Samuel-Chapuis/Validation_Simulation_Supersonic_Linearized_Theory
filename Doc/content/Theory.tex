@@ -1,0 +1,73 @@
+\newpage
+
+\section{Theory}
+\label{sec:theory}
+
+
+\subsection{Governing equations}
+\label{subsec:governing_equations}
+The full compressible potential equation, which is a second-order partial differential equation, can be expressed in terms of the velocity potential $\phi$ as follows:
+\begin{equation}
+	(1 - M^2\phi_x^2)\phi_{xx} - 2M^2\phi_x\phi_y\phi_{xy} + (1 - M^2\phi_y^2)\phi_{yy} + \phi_{zz} = 0,
+\end{equation}
+\label{eq:governing_equations}
+where $M$ is the Mach number, and $\phi_x$, $\phi_y$, and $\phi_z$ are the partial derivatives of the velocity potential with respect to the spatial coordinates $x$, $y$, and $z$, respectively. The subscripts denote partial differentiation.
+
+\subsection{Hypothesis}
+\label{subsec:hypothesis}
+
+\begin{itemize}
+\item Inviscid, adiabatic, perfect-gas flow, steady
+	\begin{equation*}
+		P = \rho R T \quad ; \quad \gamma = const \quad ; \quad div(v) = 0 \quad ; \quad \frac{\partial }{\partial t} = 0
+	\end{equation*}
+
+\item Small perturbations of the flow field
+	\begin{equation*}
+		v = v_0 + v' \quad ; \quad P = P_0 + P' \quad ; \quad T = T_0 + T'
+	\end{equation*}
+
+\item Disturbance velocities
+	\begin{equation*}
+		v' = \epsilon v_1 + \epsilon^2 v_2 + \epsilon^3 v_3 + ... \quad ; \quad \epsilon << 1
+	\end{equation*}
+
+\end{itemize}
+
+\subsection{Linearized equations}
+\label{subsec:linearized_equations}
+The linearized equations are obtained by substituting the perturbation velocities into the governing equations and neglecting higher-order terms. The resulting equations can be expressed as follows:
+\begin{equation}
+	(1 - M_\infty^2) \phi_{xx} + \phi_{yy} + \phi_{zz} = 0.
+	\label{eq:small-disturb}
+\end{equation}
+	
+This limited development neglects all terms of order \(O(\phi_x^2)\) and above, as well as shock-shock interactions, thereby restricting valid Mach and deflection ranges.
+
+\subsection{Shock angle}
+The exact oblique-shock relation for a wedge half-angle \(\theta\) is
+\begin{equation}
+	tan\theta = 2\cot\beta\frac{M_\infty^2\sin^2\beta - 1}{M_\infty^2(\gamma+\cos2\beta)+2}.
+\end{equation}
+In the limit \(\theta\to0\) with attached flow, the critical condition arises when the numerator vanishes:
+\begin{equation*}
+	M_\infty^2\sin^2\beta_d - 1 = 0
+	\quad\Longrightarrow\quad
+	\beta_d = \sin^{-1}(1/M_\infty).
+\end{equation*}
+So,
+\begin{equation}
+\beta_d \approx \sin^{-1}\Bigl(\frac{1}{M_\infty}\Bigr)
+\label{eq:beta_d}
+\end{equation}
+offers a first-order shock-detachment estimate.  Note the distinction from the Mach angle \(\mu=\sin^{-1}(1/M_\infty)\), which applies to infinitesimal disturbances rather than finite shocks.
+
+
+
+
+
+
+
+\subsection{Applicaiton of the theory}
+
+\input{graphs/linearised.tex}
