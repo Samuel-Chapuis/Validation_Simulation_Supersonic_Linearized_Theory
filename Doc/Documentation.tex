@@ -10,7 +10,13 @@
 \usepackage{amssymb} % For additional math symbols
 \usepackage{float} % For controlling figure placement
 \usepackage{pgfplots}
+\usepackage{listings}
 \pgfplotsset{compat=1.18}
+
+% Import custom functions
+\input{functions/code_presentation.tex}
+
+
 
 % FANCYHDR SETTINGS
 \fancypagestyle{firstpage}{
@@ -81,6 +87,7 @@
 
 \input{content/Abstract.tex}
 
+\newpage
 \tableofcontents
 
 \input{content/Theory.tex}
