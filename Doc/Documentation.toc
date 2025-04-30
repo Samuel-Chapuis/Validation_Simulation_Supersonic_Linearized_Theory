@@ -1,6 +1,9 @@
-\contentsline {section}{\numberline {1}Theory}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Governing equations}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Hypothesis}{3}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Linearized equations}{3}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Shock angle}{3}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Applicaiton of the theory}{4}{subsection.1.5}%
+\contentsline {section}{\numberline {1}Theory}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Hypothesis}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Governing equations}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Linearized equations}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Shock angle}{5}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Exact relation}{5}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Numerical solution}{5}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Linearized shock angle}{7}{subsubsection.1.5.3}%
