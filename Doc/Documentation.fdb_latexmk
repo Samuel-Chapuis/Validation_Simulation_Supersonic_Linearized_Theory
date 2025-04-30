@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1745979267 "c:/Users/Samue/Documents/=Perso=/20-Etudes/Cours/4A_CSULB/CFD/Projet/Doc/Documentation.tex" "Documentation.pdf" "Documentation" 1745979270 0
+["pdflatex"] 1745980141 "c:/Users/Samue/Documents/=Perso=/20-Etudes/Cours/4A_CSULB/CFD/Projet/Doc/Documentation.tex" "Documentation.pdf" "Documentation" 1745980144 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/bitstrea/charter/bchb7t.tfm" 1136768654 2732 006d846b4d54f9b40899c7c3eecd771a ""
   "C:/Program Files/MiKTeX/fonts/tfm/bitstrea/charter/bchb8r.tfm" 1136768654 5184 4fd08a9613e75c1da82714d79cf8b4f1 ""
@@ -210,14 +210,16 @@
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Samue/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1711449942 133807 2528f502faa7488577b38de1fae4f31e ""
   "C:/Users/Samue/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698315709 24165411 95fcfd6d3be8c079552a2d47261ae2c1 ""
-  "Documentation.aux" 1745979270 2703 1b5fe2a14a4f9872e6d1e555702c1779 "pdflatex"
-  "Documentation.out" 1745979270 1200 fed86a168042bdd937955cbb055f2a37 "pdflatex"
+  "Documentation.aux" 1745980144 2738 f9770854b76c0ba033f97a62bce6eca2 "pdflatex"
+  "Documentation.out" 1745980144 1200 fed86a168042bdd937955cbb055f2a37 "pdflatex"
   "Documentation.tex" 1745976796 2418 aab12f900a47afaee6dc10a660349f52 ""
-  "Documentation.toc" 1745979270 744 91df703410f5d7559597b5b3985c94e6 "pdflatex"
+  "Documentation.toc" 1745980144 744 91df703410f5d7559597b5b3985c94e6 "pdflatex"
   "c:/Users/Samue/Documents/=Perso=/20-Etudes/Cours/4A_CSULB/CFD/Projet/Doc/Documentation.tex" 1745976796 2418 aab12f900a47afaee6dc10a660349f52 ""
   "content/Abstract.tex" 1745911432 601 de3c428464d4e136ee11bf722902988a ""
-  "content/Theory.tex" 1745979263 10121 1f734d21062f0eb0df789e4c2a11781c ""
+  "content/Theory.tex" 1745980138 10453 3d0382226f5e8b87cce933278913c5e0 ""
   "functions/code_presentation.tex" 1745976765 207 02839871ea8a9913ad980972095049c5 ""
+  "graphs/linearised.aux" 1745980144 697 ab5e6d819a7b61946df39dbdcb79323a "pdflatex"
+  "graphs/linearised.tex" 1745980073 942 544066e1571ae71d0c5c1fe5d8fca986 ""
   "ressources/figures/compute_polaire.png" 1745979114 222480 2aa852bd093004ee589ed0e42cdede81 ""
   "ressources/figures/supaero_polar.jpg" 1745978966 290915 261def94af30d4a8d1dc7f776972b451 ""
   "ressources/images/CSULB.png" 1738905152 265678 57364adada1de4a909c690f15fdb77b0 ""
@@ -229,4 +231,5 @@
   "Documentation.out"
   "Documentation.pdf"
   "Documentation.toc"
+  "graphs/linearised.aux"
   (rewritten before read)

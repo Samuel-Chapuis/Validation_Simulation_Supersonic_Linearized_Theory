@@ -12,3 +12,9 @@ Doc/Documentation.log
 Doc/Documentation.out
 Doc/Documentation.synctex.gz
 Doc/Documentation.toc
+Doc/Documentation.aux
+Doc/Documentation.fdb_latexmk
+Doc/Documentation.fls
+Doc/Documentation.log
+Doc/Documentation.synctex.gz
+Doc/graphs/linearised.aux

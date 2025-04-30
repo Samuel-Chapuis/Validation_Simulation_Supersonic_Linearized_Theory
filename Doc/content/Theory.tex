@@ -217,18 +217,17 @@ With the code below it is possible to solve $\beta$ for arrays of \(\theta\) and
     \label{fig:polar_comparison}
 \end{figure}
 
+We can see that the results are similar showing this resolution is valid. The difference between the two results is due to the fact that the code from Supaero is using a diffrent type of plotting.
 
 % ----- Linearized shock angle -----
 \subsubsection{Linearized shock angle}
-In the limit \(\theta\to0\) with attached flow, the critical condition arises when the numerator vanishes:
-\begin{align*}
-	&M_\infty^2\sin^2\beta_d - 1 = 0\\
-	\Longrightarrow \quad &\beta_d = \sin^{-1}(1/M_\infty).
-\end{align*}
-So,
-\begin{equation}
-\beta_d \approx \sin^{-1}\Bigl(\frac{1}{M_\infty}\Bigr)
+Because the formal solution is complex to compute, we can use the small-disturbance approximation to obtain a linearized version of the shock angle. In the limit \(\theta\to0\) with attached flow, the critical condition arises when the numerator vanishes:
+\begin{align}
+	&M_\infty^2\sin^2\beta_d - 1 \approx 0\\
+	\Longrightarrow \quad &\beta_d \approx \sin^{-1}\Bigl(\frac{1}{M_\infty}\Bigr)
+\end{align}
 \label{eq:beta_d}
-\end{equation}
-offers a first-order shock-detachment estimate.  Note the distinction from the Mach angle \(\mu=\sin^{-1}(1/M_\infty)\), which applies to infinitesimal disturbances rather than finite shocks.
 
+Then the equation below offers a first-order shock-detachment estimate. Note the distinction from the Mach angle \(\mu=\sin^{-1}(1/M_\infty)\), which applies to infinitesimal disturbances rather than finite shocks.
+
+\include{graphs/linearised}
