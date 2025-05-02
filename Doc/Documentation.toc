@@ -7,3 +7,5 @@
 \contentsline {subsubsection}{\numberline {1.5.1}Exact relation}{5}{subsubsection.1.5.1}%
 \contentsline {subsubsection}{\numberline {1.5.2}Numerical solution}{5}{subsubsection.1.5.2}%
 \contentsline {subsubsection}{\numberline {1.5.3}Linearized shock angle}{7}{subsubsection.1.5.3}%
+\contentsline {section}{\numberline {2}CFD Model}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Simulation parameters}{9}{subsection.2.1}%

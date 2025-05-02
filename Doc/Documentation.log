@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.26)  29 APR 2025 19:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.26)  30 APR 2025 19:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -536,7 +536,7 @@ File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 File: l3backend-pdftex.def 2023-10-10 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count325
 \l__pdf_internal_box=\box70
-) (Documentation.aux (graphs/linearised.aux))
+) (Documentation.aux)
 \openout1 = `Documentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
@@ -619,12 +619,12 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
 \c@lstlisting=\count332
-<ressources/images/CSULB.png, id=42, 1204.5pt x 1171.37625pt>
+<ressources/images/CSULB.png, id=50, 1204.5pt x 1171.37625pt>
 File: ressources/images/CSULB.png Graphic file (type png)
 <use ressources/images/CSULB.png>
 Package pdftex.def Info: ressources/images/CSULB.png  used on input line 53.
 (pdftex.def)             Requested size: 43.87106pt x 42.67912pt.
-<ressources/images/Estaca-Logo.png, id=44, 2569.6pt x 1053.9375pt>
+<ressources/images/Estaca-Logo.png, id=52, 2569.6pt x 1053.9375pt>
 File: ressources/images/Estaca-Logo.png Graphic file (type png)
 <use ressources/images/Estaca-Logo.png>
 Package pdftex.def Info: ressources/images/Estaca-Logo.png  used on input line 54.
@@ -634,7 +634,7 @@ Overfull \hbox (2.11pt too wide) in paragraph at lines 50--64
 [] [] 
  []
 
-<ressources/images/cover2.png, id=46, 640.3925pt x 640.3925pt>
+<ressources/images/cover2.png, id=54, 640.3925pt x 640.3925pt>
 File: ressources/images/cover2.png Graphic file (type png)
 <use ressources/images/cover2.png>
 Package pdftex.def Info: ressources/images/cover2.png  used on input line 79.
@@ -672,34 +672,54 @@ LaTeX Font Warning: Font shape `OT1/cmtt/b/n' undefined
 (Font)              using `OT1/cmtt/m/n' instead on input line 184.
 
 
-LaTeX Warning: Citation `Tables de Détente ou de Choc by Supaero' on page 6 undefined on input line 204.
+LaTeX Warning: Citation `Supaero' on page 6 undefined on input line 204.
 
-<ressources/figures/compute_polaire.png, id=122, 859.2903pt x 714.7503pt>
+<ressources/figures/compute_polaire.png, id=132, 859.2903pt x 714.7503pt>
 File: ressources/figures/compute_polaire.png Graphic file (type png)
 <use ressources/figures/compute_polaire.png>
 Package pdftex.def Info: ressources/figures/compute_polaire.png  used on input line 209.
 (pdftex.def)             Requested size: 203.83417pt x 169.54774pt.
-<ressources/figures/supaero_polar.jpg, id=123, 566.71725pt x 458.31226pt>
+<ressources/figures/supaero_polar.jpg, id=133, 566.71725pt x 458.31226pt>
 File: ressources/figures/supaero_polar.jpg Graphic file (type jpg)
 <use ressources/figures/supaero_polar.jpg>
 Package pdftex.def Info: ressources/figures/supaero_polar.jpg  used on input line 214.
 (pdftex.def)             Requested size: 203.83417pt x 164.84541pt.
-[6] [7
+[6]
+<ressources/figures/linear_comparaison.png, id=174, 859.2903pt x 715.473pt>
+File: ressources/figures/linear_comparaison.png Graphic file (type png)
+<use ressources/figures/linear_comparaison.png>
+Package pdftex.def Info: ressources/figures/linear_comparaison.png  used on input line 238.
+(pdftex.def)             Requested size: 203.83417pt x 169.71918pt.
+<ressources/figures/linear_error.png, id=175, 726.3135pt x 616.4631pt>
+File: ressources/figures/linear_error.png Graphic file (type png)
+<use ressources/figures/linear_error.png>
+Package pdftex.def Info: ressources/figures/linear_error.png  used on input line 243.
+(pdftex.def)             Requested size: 203.83417pt x 173.00356pt.
+ [7
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.233 \include{graphs/linearised}
-                                 
+l.250 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.233 \include{graphs/linearised}
-                                  <./ressources/figures/compute_polaire.png> <./ressources/figures/supaero_polar.jpg>]
-\openout2 = `graphs/linearised.aux'.
+l.250 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.250 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.250 
+       <./ressources/figures/compute_polaire.png> <./ressources/figures/supaero_polar.jpg> <./ressources/figures/linear_comparaison.png> <./ressources/figures/linear_error.png>] [8])
 
- (graphs/linearised.tex) [8
+LaTeX Warning: Citation `Supaero' on page 9 undefined on input line 95.
 
-]) (Documentation.aux (graphs/linearised.aux))
+[9] (Documentation.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
@@ -712,20 +732,20 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `Documentation.out' has not changed.
-(rerunfilecheck)             Checksum: FED86A168042BDD937955CBB055F2A37;1200.
+(rerunfilecheck)             Checksum: BAF246756B5B34FCBFF1FCD6BB58DE6E;1458.
  ) 
 Here is how much of TeX's memory you used:
- 33625 strings out of 474823
- 766544 string characters out of 5760770
- 1972043 words of memory out of 5000000
- 54955 multiletter control sequences out of 15000+600000
+ 33161 strings out of 474823
+ 752870 string characters out of 5760770
+ 1973043 words of memory out of 5000000
+ 54495 multiletter control sequences out of 15000+600000
  583132 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,103p,803b,2176s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Documentation.pdf (8 pages, 1023599 bytes).
+Output written on Documentation.pdf (9 pages, 1147318 bytes).
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 500000)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 279 PDF objects out of 1000 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
