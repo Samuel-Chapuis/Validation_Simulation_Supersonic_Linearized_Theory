@@ -426,4 +426,452 @@ Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepend=\dimen259
 ) (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pg
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen260
+\pgffor@skip=\dimen261
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+)) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count301
+\pgfplotmarksize=\dimen262
+)
+\tikz@lastx=\dimen263
+\tikz@lasty=\dimen264
+\tikz@lastxsaved=\dimen265
+\tikz@lastysaved=\dimen266
+\tikz@lastmovetox=\dimen267
+\tikz@lastmovetoy=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count302
+\tikznumberofchildren=\count303
+\tikznumberofcurrentchild=\count304
+\tikz@fig@count=\count305
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count306
+\pgfmatrixcurrentcolumn=\count307
+\pgf@matrix@numberofcolumns=\count308
+)
+\tikz@expandcount=\count309
+ (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks39
+\t@pgfplots@tokb=\toks40
+\t@pgfplots@tokc=\toks41
+\pgfplots@tmpa=\dimen271
+\c@pgfplots@coordindex=\count310
+\c@pgfplots@scanlineindex=\count311
+ (C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks42
+\t@pgf@tokb=\toks43
+\t@pgf@tokc=\toks44
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count312
+) (C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count313
+\t@pgfplotstable@a=\toks45
+) (C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count314
+ (C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen272
+\pgfdecoratedremainingdistance=\dimen273
+\pgfdecoratedinputsegmentcompleteddistance=\dimen274
+\pgfdecoratedinputsegmentremainingdistance=\dimen275
+\pgf@decorate@distancetomove=\dimen276
+\pgf@decorate@repeatstate=\count315
+\pgfdecorationsegmentamplitude=\dimen277
+\pgfdecorationsegmentlength=\dimen278
+)
+\tikz@lib@dec@box=\box67
+) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count316
+\pgfplots@xmin@reg=\dimen279
+\pgfplots@xmax@reg=\dimen280
+\pgfplots@ymin@reg=\dimen281
+\pgfplots@ymax@reg=\dimen282
+\pgfplots@zmin@reg=\dimen283
+\pgfplots@zmax@reg=\dimen284
+) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count317
+\lst@gtempboxa=\box68
+\lst@token=\toks46
+\lst@length=\count318
+\lst@currlwidth=\dimen285
+\lst@column=\count319
+\lst@pos=\count320
+\lst@lostspace=\dimen286
+\lst@width=\dimen287
+\lst@newlines=\count321
+\lst@lineno=\count322
+\lst@maxwidth=\dimen288
+ (C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count323
+\lst@skipnumbers=\count324
+\lst@framebox=\box69
+) (C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (functions/code_presentation.tex)
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 45.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1bch.fd
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-10-10 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count325
+\l__pdf_internal_box=\box70
+) (Documentation.aux
+
+LaTeX Warning: Label `fig:resSW' multiply defined.
+
+)
+\openout1 = `Documentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+Package hyperref Info: Link coloring OFF on input line 45.
+ (Documentation.out) (Documentation.out)
+\@outlinefile=\write4
+\openout4 = `Documentation.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count326
+\scratchdimen=\dimen289
+\scratchbox=\box71
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen290
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks48
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+\c@lstlisting=\count332
+<ressources/images/CSULB.png, id=98, 1204.5pt x 1171.37625pt>
+File: ressources/images/CSULB.png Graphic file (type png)
+<use ressources/images/CSULB.png>
+Package pdftex.def Info: ressources/images/CSULB.png  used on input line 53.
+(pdftex.def)             Requested size: 43.87106pt x 42.67912pt.
+<ressources/images/Estaca-Logo.png, id=100, 2569.6pt x 1053.9375pt>
+File: ressources/images/Estaca-Logo.png Graphic file (type png)
+<use ressources/images/Estaca-Logo.png>
+Package pdftex.def Info: ressources/images/Estaca-Logo.png  used on input line 54.
+(pdftex.def)             Requested size: 104.02118pt x 42.67912pt.
+
+Overfull \hbox (2.11pt too wide) in paragraph at lines 50--64
+[] [] 
+ []
+
+<ressources/images/cover2.png, id=102, 640.3925pt x 640.3925pt>
+File: ressources/images/cover2.png Graphic file (type png)
+<use ressources/images/cover2.png>
+Package pdftex.def Info: ressources/images/cover2.png  used on input line 79.
+(pdftex.def)             Requested size: 369.89377pt x 369.88582pt.
+[1
+
+{C:/Users/Samue/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./ressources/images/CSULB.png> <./ressources/images/Estaca-Logo.png> <./ressources/images/cover2.png>] (content/Abstract.tex) [2] (Documentation.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write5
+\openout5 = `Documentation.toc'.
+
+ (content/Theory.tex [3]
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 60.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1bch.fd
+File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
+) [4] (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+LaTeX Font Info:    Trying to load font information for OML+bch on input line 155.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\omlbch.fd
+File: omlbch.fd 
+)
+LaTeX Font Info:    Font shape `OML/bch/m/n' in size <9> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 155.
+ [5]
+
+LaTeX Font Warning: Font shape `OT1/cmtt/b/n' undefined
+(Font)              using `OT1/cmtt/m/n' instead on input line 184.
+
+
+LaTeX Warning: Citation `Supaero' on page 6 undefined on input line 204.
+
+<ressources/figures/compute_polaire.png, id=192, 859.2903pt x 714.7503pt>
+File: ressources/figures/compute_polaire.png Graphic file (type png)
+<use ressources/figures/compute_polaire.png>
+Package pdftex.def Info: ressources/figures/compute_polaire.png  used on input line 209.
+(pdftex.def)             Requested size: 203.83417pt x 169.54774pt.
+<ressources/figures/supaero_polar.jpg, id=193, 566.71725pt x 458.31226pt>
+File: ressources/figures/supaero_polar.jpg Graphic file (type jpg)
+<use ressources/figures/supaero_polar.jpg>
+Package pdftex.def Info: ressources/figures/supaero_polar.jpg  used on input line 214.
+(pdftex.def)             Requested size: 203.83417pt x 164.84541pt.
+[6]
+<ressources/figures/linear_comparaison.png, id=238, 859.2903pt x 715.473pt>
+File: ressources/figures/linear_comparaison.png Graphic file (type png)
+<use ressources/figures/linear_comparaison.png>
+Package pdftex.def Info: ressources/figures/linear_comparaison.png  used on input line 238.
+(pdftex.def)             Requested size: 203.83417pt x 169.71918pt.
+<ressources/figures/linear_error.png, id=239, 726.3135pt x 616.4631pt>
+File: ressources/figures/linear_error.png Graphic file (type png)
+<use ressources/figures/linear_error.png>
+Package pdftex.def Info: ressources/figures/linear_error.png  used on input line 243.
+(pdftex.def)             Requested size: 203.83417pt x 173.00356pt.
+ [7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.250 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.250 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.250 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.250 
+       <./ressources/figures/compute_polaire.png> <./ressources/figures/supaero_polar.jpg> <./ressources/figures/linear_comparaison.png> <./ressources/figures/linear_error.png>]) (content/cfd.tex [8]
+<ressources/images/Slope.png, id=259, 201.00093pt x 119.44624pt>
+File: ressources/images/Slope.png Graphic file (type png)
+<use ressources/images/Slope.png>
+Package pdftex.def Info: ressources/images/Slope.png  used on input line 18.
+(pdftex.def)             Requested size: 203.83417pt x 121.13002pt.
+<ressources/images/SlopeSW.jpg, id=260, 464.937pt x 263.18324pt>
+File: ressources/images/SlopeSW.jpg Graphic file (type jpg)
+<use ressources/images/SlopeSW.jpg>
+Package pdftex.def Info: ressources/images/SlopeSW.jpg  used on input line 23.
+(pdftex.def)             Requested size: 203.83417pt x 115.38333pt.
+<ressources/images/CFD/Maillage.jpg, id=261, 950.3505pt x 383.63326pt>
+File: ressources/images/CFD/Maillage.jpg Graphic file (type jpg)
+<use ressources/images/CFD/Maillage.jpg>
+Package pdftex.def Info: ressources/images/CFD/Maillage.jpg  used on input line 35.
+(pdftex.def)             Requested size: 362.37569pt x 146.27971pt.
+ [9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.46 
+     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.46 
+     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.46 
+      <./ressources/images/Slope.png> <./ressources/images/SlopeSW.jpg> <./ressources/images/CFD/Maillage.jpg>]
+<ressources/images/CFD/SolidWorks1.jpg, id=270, 873.2625pt x 200.54926pt>
+File: ressources/images/CFD/SolidWorks1.jpg Graphic file (type jpg)
+<use ressources/images/CFD/SolidWorks1.jpg>
+Package pdftex.def Info: ressources/images/CFD/SolidWorks1.jpg  used on input line 49.
+(pdftex.def)             Requested size: 362.37569pt x 83.22026pt.
+<ressources/images/CFD/SolidWorks2.jpg, id=271, 872.058pt x 190.91325pt>
+File: ressources/images/CFD/SolidWorks2.jpg Graphic file (type jpg)
+<use ressources/images/CFD/SolidWorks2.jpg>
+Package pdftex.def Info: ressources/images/CFD/SolidWorks2.jpg  used on input line 50.
+(pdftex.def)             Requested size: 362.37569pt x 79.33238pt.
+LaTeX Font Info:    Trying to load font information for OMS+bch on input line 60.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\omsbch.fd
+File: omsbch.fd 
+)
+LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 67.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 67.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 67.
+
+<ressources/figures/PressureDistribution.png, id=272, 681.5061pt x 426.393pt>
+File: ressources/figures/PressureDistribution.png Graphic file (type png)
+<use ressources/figures/PressureDistribution.png>
+Package pdftex.def Info: ressources/figures/PressureDistribution.png  used on input line 72.
+(pdftex.def)             Requested size: 226.48395pt x 141.69907pt.
+[10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.78 
+     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.78 
+      <./ressources/images/CFD/SolidWorks1.jpg> <./ressources/images/CFD/SolidWorks2.jpg> <./ressources/figures/PressureDistribution.png>]
+<ressources/figures/Kmeans.png, id=283, 1134.639pt x 426.393pt>
+File: ressources/figures/Kmeans.png Graphic file (type png)
+<use ressources/figures/Kmeans.png>
+Package pdftex.def Info: ressources/figures/Kmeans.png  used on input line 88.
+(pdftex.def)             Requested size: 362.37569pt x 136.17528pt.
+<ressources/figures/slope.png, id=284, 625.8582pt x 394.5942pt>
+File: ressources/figures/slope.png Graphic file (type png)
+<use ressources/figures/slope.png>
+Package pdftex.def Info: ressources/figures/slope.png  used on input line 100.
+(pdftex.def)             Requested size: 226.48395pt x 142.79437pt.
+<ressources/figures/final_slope.png, id=285, 681.5061pt x 426.393pt>
+File: ressources/figures/final_slope.png Graphic file (type png)
+<use ressources/figures/final_slope.png>
+Package pdftex.def Info: ressources/figures/final_slope.png  used on input line 109.
+(pdftex.def)             Requested size: 226.48395pt x 141.69907pt.
+ [11
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.113 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.113 
+       <./ressources/figures/Kmeans.png> <./ressources/figures/slope.png>]
+<ressources/figures/sol1.png, id=294, 570.933pt x 426.393pt>
+File: ressources/figures/sol1.png Graphic file (type png)
+<use ressources/figures/sol1.png>
+Package pdftex.def Info: ressources/figures/sol1.png  used on input line 122.
+(pdftex.def)             Requested size: 203.83417pt x 152.23264pt.
+<ressources/figures/sol2.png, id=295, 570.933pt x 426.393pt>
+File: ressources/figures/sol2.png Graphic file (type png)
+<use ressources/figures/sol2.png>
+Package pdftex.def Info: ressources/figures/sol2.png  used on input line 126.
+(pdftex.def)             Requested size: 203.83417pt x 152.23264pt.
+) (content/Conclusion.tex [12
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1 \newpage
+            
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1 \newpage
+             <./ressources/figures/final_slope.png> <./ressources/figures/sol1.png> <./ressources/figures/sol2.png>]) [13] (Documentation.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `Documentation.out' has not changed.
+(rerunfilecheck)             Checksum: 488C7081F446772C5349084612487A5D;2879.
+ ) 
+Here is how much of TeX's memory you used:
+ 33325 strings out of 474823
+ 757371 string characters out of 5760770
+ 1966043 words of memory out of 5000000
+ 54618 multiletter control sequences out of 15000+600000
+ 583387 words of font info for 75 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,12n,103p,803b,2199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Documentation.pdf (13 pages, 1642273 bytes).
+PDF statistics:
+ 401 PDF objects out of 1000 (max. 8388607)
+ 121 named destinations out of 1000 (max. 500000)
+ 287 words of extra memory for PDF output out of 10000 (max. 10000000)
+
