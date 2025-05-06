@@ -372,6 +372,8 @@ INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchr7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchr7t.tfm
 OUTPUT Documentation.toc
 INPUT .\content\Theory.tex
 INPUT .\content\Theory.tex
@@ -380,11 +382,22 @@ INPUT C:\Program Files\MiKTeX\fonts\vf\bitstrea\charter\bchb7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\bitstrea\charter\bchb7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\bitstrea\charter\bchr7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchb7t.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1bch.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1bch.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1bch.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchr8c.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmib10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmmib7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmmib5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy5.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\bitstrea\charter\bchb7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\bitstrea\charter\bchr8c.vf
@@ -395,8 +408,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt9.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchri7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchr8c.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchr7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchr7t.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omlbch.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omlbch.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omlbch.fd
@@ -404,8 +415,6 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi9.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\bitstrea\charter\bchri7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchri8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\bitstrea\charter\bchr8c.vf
-INPUT C:\Program Files\MiKTeX\fonts\vf\bitstrea\charter\bchr7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
 INPUT .\ressources\figures\compute_polaire.png
 INPUT .\ressources\figures\compute_polaire.png
 INPUT .\ressources\figures\compute_polaire.png
@@ -476,6 +485,8 @@ INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsbch.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsbch.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsbch.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchb7t.tfm
 INPUT .\ressources\figures\PressureDistribution.png
 INPUT .\ressources\figures\PressureDistribution.png
 INPUT .\ressources\figures\PressureDistribution.png
@@ -483,6 +494,8 @@ INPUT .\ressources\figures\PressureDistribution.png
 INPUT .\ressources\figures\PressureDistribution.png
 INPUT .\ressources\figures\PressureDistribution.png
 INPUT .\ressources\figures\PressureDistribution.png
+INPUT C:\Program Files\MiKTeX\fonts\vf\bitstrea\charter\bchb7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
 INPUT .\ressources\figures\Kmeans.png
 INPUT .\ressources\figures\Kmeans.png
 INPUT .\ressources\figures\Kmeans.png
@@ -538,6 +551,8 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi9.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi9.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmib10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmib10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
