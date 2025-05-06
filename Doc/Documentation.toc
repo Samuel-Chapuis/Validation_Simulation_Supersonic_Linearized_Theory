@@ -9,3 +9,15 @@
 \contentsline {subsubsection}{\numberline {1.5.3}Linearized shock angle}{7}{subsubsection.1.5.3}%
 \contentsline {section}{\numberline {2}CFD Model}{9}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Simulation parameters}{9}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Solver settings}{9}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Geometry}{9}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Mesh}{9}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}Simulation}{10}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Resutls}{10}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Exportation}{10}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Results analysis}{10}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}$1^{st}$ Visualization}{10}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}K-Means}{11}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Interpetation}{11}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Repetition}{12}{subsubsection.2.3.4}%
+\contentsline {section}{\numberline {3}Conclusion}{13}{section.3}%
